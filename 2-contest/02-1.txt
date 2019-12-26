@@ -1,0 +1,64 @@
+ANSWERS
+***Answer 1:
+man -f
+***Answer 2:
+write(1) отправляет сообщения другому пользователю. write(2) записывает
+сообщения в файловый дескриптор.
+***Answer 3:
+cat показывает различные форматы содержимого файлов
+grep поиск по содержимому файлов
+head печатает начало файла
+ps показывает сообщения о текуущих процессах
+sort сортирует содержимое файла
+wc считает количество переводов строки, слов и байт
+yes бесконечно выводит заданную строку
+***Answer 4:
+упорядочены по имени
+***Answer 5:
+- Regular file
+b - Block special file
+c - Character special file
+d - Directory
+l - Symbolic link
+n - Network file
+p - FIFO
+s - Socket
+
+время - время последней модификации
+***Answer 6:
+ls -l -S
+***Answer 7:
+содержимое: KEYMAP=us
+имя файла: vconsole.conf
+***Answer 8:
+-rw-r--r-- 1 root root   91 апр  9  2018 /etc/networks
+-rw-r--r-- 1 root root 2404 авг 29 15:00 /etc/passwd
+***Answer 9:
+
+***Answer 10:
+r---wx--- 430
+rw-r-x--- 750
+r--r----x 441
+rw-rw--w- 662
+***Answer 11:
+0022
+rw-r--r--
+***Answer 12:
+umask 004
+***Answer 13:
+drwxr-x---  2 root root 4096 сен  9 11:40  newtask1
+***Answer 14:
+4
+***Answer 15:
+размер файла 4, т.к. "abc" занимает 3 байта + 1 байт символа перевода строки
+***Answer 16:
+размер file5 - 5
+размер file6 - 4
+первый файл на один байт больше из-за записи символа перевода строки
+***Answer 17:
+/home/ilya
+путь из корня в папку home, затем в домашний каталог ilya
+***Answer 18:
+/usr/include
+***Answer 19:
+
